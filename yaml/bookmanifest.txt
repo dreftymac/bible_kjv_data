@@ -1,0 +1,458 @@
+### <beg-file_info>
+### main:
+###   - date: created="Sun Dec 06 11:01:34 2015"
+###     last: lastmod="Sun Dec 06 11:01:34 2015"
+###     tags: bible, kjv, 
+###     dreftymacid:    "existing_mega_helmet"
+###     seealso: |
+###         *
+###     desc: |
+###         desc    
+### <end-file_info>
+
+bookmanifest:  
+  - &dXVjdm001
+    bookuuid: "dXVjdm001"
+    bookindx: "001"
+    booktitl: "Genesis"
+    booktnsp: "Genesis"
+
+  - &dXVjdm002
+    bookuuid: "dXVjdm002"
+    bookindx: "002"
+    booktitl: "Exodus"
+    booktnsp: "Exodus"
+
+  - &dXVjdm003
+    bookuuid: "dXVjdm003"
+    bookindx: "003"
+    booktitl: "Leviticus"
+    booktnsp: "Leviticus"
+
+  - &dXVjdm004
+    bookuuid: "dXVjdm004"
+    bookindx: "004"
+    booktitl: "Numbers"
+    booktnsp: "Numbers"
+
+  - &dXVjdm005
+    bookuuid: "dXVjdm005"
+    bookindx: "005"
+    booktitl: "Deuteronomy"
+    booktnsp: "Deuteronomy"
+
+  - &dXVjdm006
+    bookuuid: "dXVjdm006"
+    bookindx: "006"
+    booktitl: "Joshua"
+    booktnsp: "Joshua"
+
+  - &dXVjdm007
+    bookuuid: "dXVjdm007"
+    bookindx: "007"
+    booktitl: "Judges"
+    booktnsp: "Judges"
+
+  - &dXVjdm008
+    bookuuid: "dXVjdm008"
+    bookindx: "008"
+    booktitl: "Ruth"
+    booktnsp: "Ruth"
+
+  - &dXVjdm009
+    bookuuid: "dXVjdm009"
+    bookindx: "009"
+    booktitl: "1 Samuel"
+    booktnsp: "1Samuel"
+
+  - &dXVjdm010
+    bookuuid: "dXVjdm010"
+    bookindx: "010"
+    booktitl: "2 Samuel"
+    booktnsp: "2Samuel"
+
+  - &dXVjdm011
+    bookuuid: "dXVjdm011"
+    bookindx: "011"
+    booktitl: "1 Kings"
+    booktnsp: "1Kings"
+
+  - &dXVjdm012
+    bookuuid: "dXVjdm012"
+    bookindx: "012"
+    booktitl: "2 Kings"
+    booktnsp: "2Kings"
+
+  - &dXVjdm013
+    bookuuid: "dXVjdm013"
+    bookindx: "013"
+    booktitl: "1 Chronicles"
+    booktnsp: "1Chronicles"
+
+  - &dXVjdm014
+    bookuuid: "dXVjdm014"
+    bookindx: "014"
+    booktitl: "2 Chronicles"
+    booktnsp: "2Chronicles"
+
+  - &dXVjdm015
+    bookuuid: "dXVjdm015"
+    bookindx: "015"
+    booktitl: "Ezra"
+    booktnsp: "Ezra"
+
+  - &dXVjdm016
+    bookuuid: "dXVjdm016"
+    bookindx: "016"
+    booktitl: "Nehemiah"
+    booktnsp: "Nehemiah"
+
+  - &dXVjdm017
+    bookuuid: "dXVjdm017"
+    bookindx: "017"
+    booktitl: "Esther"
+    booktnsp: "Esther"
+
+  - &dXVjdm018
+    bookuuid: "dXVjdm018"
+    bookindx: "018"
+    booktitl: "Job"
+    booktnsp: "Job"
+
+  - &dXVjdm019
+    bookuuid: "dXVjdm019"
+    bookindx: "019"
+    booktitl: "Psalms"
+    booktnsp: "Psalms"
+
+  - &dXVjdm020
+    bookuuid: "dXVjdm020"
+    bookindx: "020"
+    booktitl: "Proverbs"
+    booktnsp: "Proverbs"
+
+  - &dXVjdm021
+    bookuuid: "dXVjdm021"
+    bookindx: "021"
+    booktitl: "Ecclesiastes"
+    booktnsp: "Ecclesiastes"
+
+  - &dXVjdm022
+    bookuuid: "dXVjdm022"
+    bookindx: "022"
+    booktitl: "Song of Solomon"
+    booktnsp: "SongofSolomon"
+
+  - &dXVjdm023
+    bookuuid: "dXVjdm023"
+    bookindx: "023"
+    booktitl: "Isaiah"
+    booktnsp: "Isaiah"
+
+  - &dXVjdm024
+    bookuuid: "dXVjdm024"
+    bookindx: "024"
+    booktitl: "Jeremiah"
+    booktnsp: "Jeremiah"
+
+  - &dXVjdm025
+    bookuuid: "dXVjdm025"
+    bookindx: "025"
+    booktitl: "Lamentations"
+    booktnsp: "Lamentations"
+
+  - &dXVjdm026
+    bookuuid: "dXVjdm026"
+    bookindx: "026"
+    booktitl: "Ezekiel"
+    booktnsp: "Ezekiel"
+
+  - &dXVjdm027
+    bookuuid: "dXVjdm027"
+    bookindx: "027"
+    booktitl: "Daniel"
+    booktnsp: "Daniel"
+
+  - &dXVjdm028
+    bookuuid: "dXVjdm028"
+    bookindx: "028"
+    booktitl: "Hosea"
+    booktnsp: "Hosea"
+
+  - &dXVjdm029
+    bookuuid: "dXVjdm029"
+    bookindx: "029"
+    booktitl: "Joel"
+    booktnsp: "Joel"
+
+  - &dXVjdm030
+    bookuuid: "dXVjdm030"
+    bookindx: "030"
+    booktitl: "Amos"
+    booktnsp: "Amos"
+
+  - &dXVjdm031
+    bookuuid: "dXVjdm031"
+    bookindx: "031"
+    booktitl: "Obadiah"
+    booktnsp: "Obadiah"
+
+  - &dXVjdm032
+    bookuuid: "dXVjdm032"
+    bookindx: "032"
+    booktitl: "Jonah"
+    booktnsp: "Jonah"
+
+  - &dXVjdm033
+    bookuuid: "dXVjdm033"
+    bookindx: "033"
+    booktitl: "Micah"
+    booktnsp: "Micah"
+
+  - &dXVjdm034
+    bookuuid: "dXVjdm034"
+    bookindx: "034"
+    booktitl: "Nahum"
+    booktnsp: "Nahum"
+
+  - &dXVjdm035
+    bookuuid: "dXVjdm035"
+    bookindx: "035"
+    booktitl: "Habakkuk"
+    booktnsp: "Habakkuk"
+
+  - &dXVjdm036
+    bookuuid: "dXVjdm036"
+    bookindx: "036"
+    booktitl: "Zephaniah"
+    booktnsp: "Zephaniah"
+
+  - &dXVjdm037
+    bookuuid: "dXVjdm037"
+    bookindx: "037"
+    booktitl: "Haggai"
+    booktnsp: "Haggai"
+
+  - &dXVjdm038
+    bookuuid: "dXVjdm038"
+    bookindx: "038"
+    booktitl: "Zechariah"
+    booktnsp: "Zechariah"
+
+  - &dXVjdm039
+    bookuuid: "dXVjdm039"
+    bookindx: "039"
+    booktitl: "Malachi"
+    booktnsp: "Malachi"
+
+  - &dXVjdm040
+    bookuuid: "dXVjdm040"
+    bookindx: "040"
+    booktitl: "Matthew"
+    booktnsp: "Matthew"
+
+  - &dXVjdm041
+    bookuuid: "dXVjdm041"
+    bookindx: "041"
+    booktitl: "Mark"
+    booktnsp: "Mark"
+
+  - &dXVjdm042
+    bookuuid: "dXVjdm042"
+    bookindx: "042"
+    booktitl: "Luke"
+    booktnsp: "Luke"
+
+  - &dXVjdm043
+    bookuuid: "dXVjdm043"
+    bookindx: "043"
+    booktitl: "John"
+    booktnsp: "John"
+
+  - &dXVjdm044
+    bookuuid: "dXVjdm044"
+    bookindx: "044"
+    booktitl: "Acts"
+    booktnsp: "Acts"
+
+  - &dXVjdm045
+    bookuuid: "dXVjdm045"
+    bookindx: "045"
+    booktitl: "Romans"
+    booktnsp: "Romans"
+
+  - &dXVjdm046
+    bookuuid: "dXVjdm046"
+    bookindx: "046"
+    booktitl: "1 Corinthians"
+    booktnsp: "1Corinthians"
+
+  - &dXVjdm047
+    bookuuid: "dXVjdm047"
+    bookindx: "047"
+    booktitl: "2 Corinthians"
+    booktnsp: "2Corinthians"
+
+  - &dXVjdm048
+    bookuuid: "dXVjdm048"
+    bookindx: "048"
+    booktitl: "Galatians"
+    booktnsp: "Galatians"
+
+  - &dXVjdm049
+    bookuuid: "dXVjdm049"
+    bookindx: "049"
+    booktitl: "Ephesians"
+    booktnsp: "Ephesians"
+
+  - &dXVjdm050
+    bookuuid: "dXVjdm050"
+    bookindx: "050"
+    booktitl: "Philippians"
+    booktnsp: "Philippians"
+
+  - &dXVjdm051
+    bookuuid: "dXVjdm051"
+    bookindx: "051"
+    booktitl: "Colossians"
+    booktnsp: "Colossians"
+
+  - &dXVjdm052
+    bookuuid: "dXVjdm052"
+    bookindx: "052"
+    booktitl: "1 Thessalonians"
+    booktnsp: "1Thessalonians"
+
+  - &dXVjdm053
+    bookuuid: "dXVjdm053"
+    bookindx: "053"
+    booktitl: "2 Thessalonians"
+    booktnsp: "2Thessalonians"
+
+  - &dXVjdm054
+    bookuuid: "dXVjdm054"
+    bookindx: "054"
+    booktitl: "1 Timothy"
+    booktnsp: "1Timothy"
+
+  - &dXVjdm055
+    bookuuid: "dXVjdm055"
+    bookindx: "055"
+    booktitl: "2 Timothy"
+    booktnsp: "2Timothy"
+
+  - &dXVjdm056
+    bookuuid: "dXVjdm056"
+    bookindx: "056"
+    booktitl: "Titus"
+    booktnsp: "Titus"
+
+  - &dXVjdm057
+    bookuuid: "dXVjdm057"
+    bookindx: "057"
+    booktitl: "Philemon"
+    booktnsp: "Philemon"
+
+  - &dXVjdm058
+    bookuuid: "dXVjdm058"
+    bookindx: "058"
+    booktitl: "Hebrews"
+    booktnsp: "Hebrews"
+
+  - &dXVjdm059
+    bookuuid: "dXVjdm059"
+    bookindx: "059"
+    booktitl: "James"
+    booktnsp: "James"
+
+  - &dXVjdm060
+    bookuuid: "dXVjdm060"
+    bookindx: "060"
+    booktitl: "1 Peter"
+    booktnsp: "1Peter"
+
+  - &dXVjdm061
+    bookuuid: "dXVjdm061"
+    bookindx: "061"
+    booktitl: "2 Peter"
+    booktnsp: "2Peter"
+
+  - &dXVjdm062
+    bookuuid: "dXVjdm062"
+    bookindx: "062"
+    booktitl: "1 John"
+    booktnsp: "1John"
+
+  - &dXVjdm063
+    bookuuid: "dXVjdm063"
+    bookindx: "063"
+    booktitl: "2 John"
+    booktnsp: "2John"
+
+  - &dXVjdm064
+    bookuuid: "dXVjdm064"
+    bookindx: "064"
+    booktitl: "3 John"
+    booktnsp: "3John"
+
+  - &dXVjdm065
+    bookuuid: "dXVjdm065"
+    bookindx: "065"
+    booktitl: "Jude"
+    booktnsp: "Jude"
+
+  - &dXVjdm066
+    bookuuid: "dXVjdm066"
+    bookindx: "066"
+    booktitl: "Revelation"
+    booktnsp: "Revelation"
+
+## href="c:/sm/docs/mytrybits/y/tryyaml/dynamicyaml/devlog.txt"
+## href="c:/sm/docs/mymedia/2014/git/github/dynamic.yaml/py/ddyaml.py"
+__yaml__:
+
+  - &uud9a6532b_iden
+    caption:      identity transform
+    rowkeep: 0
+    uuid:         uud9a6532b_iden
+    desc:         __desc__
+    dreftymacid:  __dreftymacid__
+    template:         |
+        {#- ------------------------------------------------------------------------ -#}
+        bookmanifest:
+        {%- for row in bookmanifest %}
+          - &{{row.bookuuid}}
+            bookuuid: "{{row.bookuuid}}"
+            bookindx: "{{row.bookindx}}"
+            booktitl: "{{row.booktitl}}"
+            booktnsp: "{{row.booktnsp}}"
+        {{-"\n"-}}
+        {%- endfor %}
+
+  - &uuid001
+    caption: caption
+    rowkeep: 1
+    uuid: uuid001
+    desc: __desc__
+    dreftymacid: cluing_huey_phase
+    template: |
+        {#- ------------------------------------------------------------------------ -#}
+        {% for row in bookmanifest -%}
+          {#- ------------------------------------------------------------------------ -#}
+          {%- set ttinfile    =   "../%s.json" %(row.booktnsp) -%}
+          {%- set ttinputt    =   ""
+                |jjfromfile(ttinfile)
+                |jjdata_load('json')
+                |jjdata_formatas('yamlpretty')
+                -%}
+          {#- ------------------------------------------------------------------------ -#}
+          {%- set ttbooktns   = row.booktnsp -%}
+          {%- set ttoutfile   = "./%s_%s.yaml.txt" %(row.bookuuid,ttbooktns) -%}
+          {%- set ttoutmode   = 'replace'  -%}
+          {%- set ttusebom    = False      -%}          
+          {#- ------------------------------------------------------------------------ -#}
+          {%filter string() |jjtofile(ttoutfile,ttoutmode,ttusebom) |jjdedent() %}
+            {{- ttinputt -}}
+          {%endfilter%}          
+        {% endfor %}
+

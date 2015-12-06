@@ -1,0 +1,43 @@
+## href="c:/sm/docs/mytrybits/y/tryyaml/dynamicyaml/devlog.txt"
+## href="c:/sm/docs/mymedia/2014/git/github/dynamic.yaml/py/ddyaml.py"
+__yaml__:
+
+  - &uutokenism_await_juiciest
+    caption:      reformat data
+    rowkeep: 1
+    uuid:         uutokenism_await_juiciest
+    desc:         __desc__
+    dreftymacid:  __dreftymacid__
+    datainclude:
+      - "../../../../../../mymedia/2014/git/github/bible-kjv/yaml/bookmanifest.txt"
+    templateinclude:  templateinclude
+    template:         |
+      {% for row in bookmanifest[0:] -%}
+        {#- ------------------------------------------------------------------------ -#}
+        {%- set ttbooknum = loop.index  -%}
+        {%- set ttinfile = "./%s_%s.yaml.txt"%(row.bookuuid,row.booktnsp) -%}
+        {%- set ttindata = ""
+              |jjfromfile(ttinfile)
+              |jjdata_load('yaml')
+              -%}
+        {%- set ttchapters = ttindata.chapters  -%}
+        {#- ------------------------------------------------------------------------ -#}
+        {%- set ttbooktns   = row.booktnsp -%}
+        {%- set ttoutfile   = "./%s_%s.yamltable.asc" %(row.bookuuid,ttbooktns) -%}
+        {%- set ttoutmode   = 'replace'  -%}
+        {%- set ttusebom    = False      -%}                          
+        {#- ------------------------------------------------------------------------ -#}
+        {%filter string() |jjtofile(ttoutfile,ttoutmode,ttusebom) |jjdedent() %}
+          {{ row.booktnsp }}:
+          {% for chapter in ttchapters -%}
+              {% for verse in chapter.verses %}{{"\n"}}
+              - 
+                booktnsp:   "{{ row.booktnsp }}"
+                booknumb:   "{{ ttbooknum |jjfmt('{:0>3}') }}"
+                chapnumb:   "{{ chapter.chapter |jjfmt('{:0>3}') }}"
+                versnumb:   "{{ verse.keys()[0] |jjfmt('{:0>3}') }}"
+                verstext:   "{{ verse[verse.keys()[0]] }}"
+              {% endfor %}        
+          {% endfor %}          
+        {%endfilter%}
+      {% endfor %}
