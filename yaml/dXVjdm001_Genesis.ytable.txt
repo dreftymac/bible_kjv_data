@@ -4362,7 +4362,7 @@ book:   1
 book:   1
         chap:   30
         vnumb:  36
-        vtext:  And he set three days2019 journey betwixt himself and Jacob: and Jacob fed the rest of Laban2019s flocks.
+        vtext:  And he set three days journey betwixt himself and Jacob: and Jacob fed the rest of Laban2019s flocks.
         
 book:   1
         chap:   30
@@ -4513,7 +4513,7 @@ book:   1
 book:   1
         chap:   31
         vnumb:  23
-        vtext:  And he took his brethren with him, and pursued after him seven days2019 journey; and they overtook him in the mount Gilead.
+        vtext:  And he took his brethren with him, and pursued after him seven days journey; and they overtook him in the mount Gilead.
         
 book:   1
         chap:   31

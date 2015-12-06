@@ -947,8 +947,8 @@ chapters:
       are to encamp in the wilderness, and thou mayest be to us instead of eyes.
   - '32': And it shall be, if thou go with us, yea, it shall be, that what goodness
       the LORD shall do unto us, the same will we do unto thee.
-  - '33': 'And they departed from the mount of the LORD three days2019 journey: and
-      the ark of the covenant of the LORD went before them in the three days2019 journey,
+  - '33': 'And they departed from the mount of the LORD three days journey: and
+      the ark of the covenant of the LORD went before them in the three days journey,
       to search out a resting place for them.'
   - '34': And the cloud of the LORD was upon them by day, when they went out of the
       camp.
@@ -2669,7 +2669,7 @@ chapters:
   - '7': 'And they removed from Etham, and turned again unto Pihahiroth, which is
       before Baalzephon: and they pitched before Migdol.'
   - '8': And they departed from before Pihahiroth, and passed through the midst of
-      the sea into the wilderness, and went three days2019 journey in the wilderness
+      the sea into the wilderness, and went three days journey in the wilderness
       of Etham, and pitched in Marah.
   - '9': 'And they removed from Marah, and came unto Elim: and in Elim were twelve
       fountains of water, and threescore and ten palm trees; and they pitched there.'

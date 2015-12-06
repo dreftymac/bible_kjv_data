@@ -71,7 +71,7 @@ chapters:
   - '2': Arise, go unto Nineveh, that great city, and preach unto it the preaching
       that I bid thee.
   - '3': So Jonah arose, and went unto Nineveh, according to the word of the LORD.
-      Now Nineveh was an exceeding great city of three days2019 journey.
+      Now Nineveh was an exceeding great city of three days journey.
   - '4': And Jonah began to enter into the city a day2019s journey, and he cried,
       and said, Yet forty days, and Nineveh shall be overthrown.
   - '5': So the people of Nineveh believed God, and proclaimed a fast, and put on

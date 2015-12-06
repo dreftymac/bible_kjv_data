@@ -622,7 +622,7 @@ chapters:
   - '2': And Nahash the Ammonite answered them, On this condition will I make a covenant
       with you, that I may thrust out all your right eyes, and lay it for a reproach
       upon all Israel.
-  - '3': 'And the elders of Jabesh said unto him, Give us seven days2019 respite,
+  - '3': 'And the elders of Jabesh said unto him, Give us seven days respite,
       that we may send messengers unto all the coasts of Israel: and then, if there
       be no man to save us, we will come out to thee.'
   - '4': 'Then came the messengers to Gibeah of Saul, and told the tidings in the

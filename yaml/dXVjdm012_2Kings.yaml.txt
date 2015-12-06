@@ -143,7 +143,7 @@ chapters:
   - '8': And he said, Which way shall we go up? And he answered, The way through the
       wilderness of Edom.
   - '9': 'So the king of Israel went, and the king of Judah, and the king of Edom:
-      and they fetched a compass of seven days2019 journey: and there was no water
+      and they fetched a compass of seven days journey: and there was no water
       for the host, and for the cattle that followed them.'
   - '10': And the king of Israel said, Alas! that the LORD hath called these three
       kings together, to deliver them into the hand of Moab!

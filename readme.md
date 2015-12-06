@@ -10,4 +10,7 @@
 * yaml        ;; nested yaml
 * yamltable   ;; simpletable aod
 
+## TODO
 
+* proofread the verses text, there may be typos or errors
+    * days 
