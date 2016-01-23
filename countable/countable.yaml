@@ -1,0 +1,17 @@
+countable_table:
+  - caption: haggai plant eat drink clothes wages
+    cite:    Haggai 1:6
+    itemcount: 5
+    items: 
+      - plant;; You have planted much, but harvested little.
+      - eat;; You eat, but never have enough.
+      - drink;; You drink, but never have your fill.
+      - clothes;; You put on clothes, but are not warm.
+      - wages;; You earn wages, only to put them in a purse with holes in it.
+
+  - caption: haggai heaven earth 
+    cite:    Haggai 1:10
+    itemcount: 2
+    items: 
+      - the heaven over you is stayed from dew, 
+      - and the earth is stayed from her fruit      
