@@ -9,6 +9,13 @@ countable_table:
       - clothes;; You put on clothes, but are not warm.
       - wages;; You earn wages, only to put them in a purse with holes in it.
 
+  - caption: james 4:8
+    cite: 
+    itemcount: 2 and 6
+    items: 
+       - cleanse ;; hands ;; sinners
+       - cleanse ;; hearts ;; double-minded
+
   - caption: haggai heaven earth 
     cite:    Haggai 1:10
     itemcount: 2
