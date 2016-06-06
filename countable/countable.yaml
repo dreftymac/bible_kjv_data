@@ -1,4 +1,12 @@
 countable_table:
+  - caption: Nehemiah 1
+    cite:    Nehemiah 1:3
+    itemcount: 3
+    items: 
+      - The remnant that are left of the captivity there in the province are in great affliction and reproach: 
+      - the wall of Jerusalem also is broken down, and 
+      - the gates thereof are burned with fire    
+    
   - caption: haggai plant eat drink clothes wages
     cite:    Haggai 1:6
     itemcount: 5
