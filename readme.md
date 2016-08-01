@@ -13,4 +13,8 @@
 ## TODO
 
 * proofread the verses text, there may be typos or errors
-    * days 
+
+## See also
+
+dreftymac/trybible
+
