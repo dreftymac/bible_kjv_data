@@ -16,5 +16,6 @@
 
 ## See also
 
-dreftymac/trybible
-
+* dreftymac/trybible
+* href="smartpath://mytrybits/b/trybible/devlog.txt"
+* href="smartpath://mymedia/2014/git/github/bible_kjv_data/readme.md" find=""
